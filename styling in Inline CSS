@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Example set in Inline CSS </title>
+</head>
+<body>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8f0TS_SwlpC_joEPRrjDd2jyKroAHElt0sQ&s" 
+    alt="cognifyz technology"
+    style="height: 200px;">
+    <style>
+        img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style> <br> <br> <br>
+<p style="color: blue; font-size: 22px; background-color: chartreuse;">
+    Hello cognifyz technology it's my 2nd task and in this I will change the paragraph with blue text, 22px font size, and a chartreuse background. 
+</p>
+<br>
+
+<h1 style="color: red; background-color: olivedrab;">
+    This is a handling with red text and a olivedrab background.
+    And this line is include as heading.
+</h1>
+
+<span style="font-size: 24px; color: green;">
+    This is a span with 24px font size and green text.
+</span> <br> <br>
+
+<button style="color: white; background-color: purple; font-size: 16px;">
+    Hey cognifyz!
+</button> <br> <br>
+
+<div style="font-size: 20px; color: orange; background-color: black;">
+    This is a div with 2p0px font size, orange text, and a black background
+</div>
+</body>
+</html>
