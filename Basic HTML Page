@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Webpage</title>
+</head>
+<body>
+    <div style="background-color: darkseagreen;">
+    <header> 
+        <h1> Welcome To My Website </h1>
+    </header>
+
+
+        <section>
+            <h2> About Me </h2>
+            <p>Hello! I'm <b> Mannya Agarwal</b> and i am excited to share my first Webpage with you all. This is a simple example that how i started with HTML.</p>
+        </section>
+
+
+           <section> <h3><title><u> My Favourite Image </u></title></h3>
+            <img src="C:\Users\HP\OneDrive\Desktop\subhome-ai.jpg"
+            alt="Placeholder Image"
+            style="Width:300px; height:300px">
+            <style>
+                img {
+                    display: block;
+                    margin-left: auto;
+                    margin-right: auto;
+                }    
+            </style>
+        <p style="background-color: rgb(16, 186, 243);"> This image is very pleasent and quite. I can't roll my eyes from this image. </p>
+           </section>
+    </div>
+<footer>
+    <p style="text-align: center;">&copy; 2024 My website </p>
+</footer>
+</body>
+</html>
